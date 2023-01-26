@@ -98,5 +98,7 @@ int main(){
 
     end:
     printf("\nProgram Selesai \n");
+    
+    return 0;
 
 }

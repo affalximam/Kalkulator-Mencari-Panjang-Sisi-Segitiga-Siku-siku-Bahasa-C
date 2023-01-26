@@ -1,1 +1,1 @@
-# Kalkulator-mencari-panjang-sisi-segitiga-siku-siku-Bahasa-C
+# Kalkulator Mencari Panjang Sisi Segitiga Siku-siku Bahasa C
